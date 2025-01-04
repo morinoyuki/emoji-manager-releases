@@ -1,2 +1,4 @@
-# emoji-manager-releases
-Windows上的表情包管理器
+# Windows上的表情包管理器
+可以方便的复制表情到剪贴板 也可以从剪贴板保存表情（ctrl+v）
+## 预览图
+![](PixPin_2025-01-05_02-09-05.png)
