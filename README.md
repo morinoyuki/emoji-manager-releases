@@ -5,5 +5,23 @@
 
 解决新版QQ没了本地表情的痛点。
 
+## 下载
+
+在 [releases](https://github.com/morinoyuki/emoji-manager-releases/releases) 中
+
+## 配置注释
+
+程序启动后会让你选择一个表情包主目录
+
+然后会自动生成配置文件 `config.ini`
+
+```Ini
+[Settings]
+maindirectory = C:/xxxxx  #表情包主目录
+windowsize = 779x686      #窗口大小
+recentlimit = 10          #历史记录上限
+```
+
+
 ## 预览图
 ![](PixPin_2025-01-05_02-09-05.png)
