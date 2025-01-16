@@ -28,4 +28,4 @@ recentlimit = 10          #历史记录上限
 
 
 ## 预览图
-![](PixPin_2025-01-05_02-09-05.png)
+![](c8a2cccf44574c830449953fb1d4d0dc.gif)
