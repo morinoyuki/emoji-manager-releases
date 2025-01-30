@@ -26,6 +26,21 @@ windowsize = 779x686      #窗口大小
 recentlimit = 10          #历史记录上限
 ```
 
+### 1.3.x 支持了与 Google Drive 同步表情包文件
+同步时在程序运行期间会监视本地文件的变化同步到云端
+
+在程序运行之前的变化会在启动时全部扫描同步一次 但不会尝试删除文件 避免丢失数据
+
+使用之前需要先准备 `credentials.json` 文件 放程序目录中
+
+1. 打开 [Google Cloud Console](https://console.cloud.google.com/)。
+2. 创建一个新项目或选择现有项目。
+3. 启用 Google Drive API。
+4. 创建 OAuth 2.0 客户端凭据，下载 `credentials.json` 文件。
+
+其他修改懒得写
+
+最后：新年快乐
 
 ## 预览图
 ![](c8a2cccf44574c830449953fb1d4d0dc.gif)
