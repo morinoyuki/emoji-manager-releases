@@ -38,9 +38,6 @@ recentlimit = 10          #历史记录上限
 3. 启用 Google Drive API。
 4. 创建 OAuth 2.0 客户端凭据，下载 `credentials.json` 文件。
 
-其他修改懒得写
-
-最后：新年快乐
 
 ## 预览图
 ![](c8a2cccf44574c830449953fb1d4d0dc.gif)
